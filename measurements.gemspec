@@ -5,11 +5,11 @@ require "measurements/version"
 Gem::Specification.new do |s|
   s.name        = "measurements"
   s.version     = Measurements::VERSION
-  s.authors     = ["Krustal"]
+  s.authors     = ["Byron Strasburger McMullen"]
   s.email       = ["byronsm@gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{A unit conversion library}
+  s.description = %q{Measurements is a library for handling units, including conversions between various types.}
 
   s.rubyforge_project = "measurements"
 
